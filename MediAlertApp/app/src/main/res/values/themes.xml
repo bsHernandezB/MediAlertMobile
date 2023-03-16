@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MediAlertApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#255F7A</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+    
+    <style name="CustomDatePickerDialog" parent="android:Theme.Material.Light.Dialog">
+        <!--header background-->
+        <item name="android:colorAccent">#4BC3FB</item>
+        <!--header textcolor-->
+        <item name="android:textColorPrimaryInverse">#000000</item>
+        <!--body background-->
+        <item name="android:windowBackground">#4BC3FB</item>
+        <!--selected day-->
+        <item name="android:colorControlActivated">#FFFFFF</item>
+        <!--days of the month-->
+        <item name="android:textColorPrimary">#000000</item>
+        <!--days of the week-->
+        <item name="android:textColorSecondary">#000000</item>
+        <!--cancel&ok-->
+        <item name="android:textColor">#000000</item>
+    </style>
+
+</resources>

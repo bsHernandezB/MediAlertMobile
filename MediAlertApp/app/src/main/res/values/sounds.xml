@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundsItems">
+        <item>Sonido 1</item>
+        <item>Sonido 2</item>
+        <item>Sonido 3</item>
+        <item>Sonido 4</item>
+        <item>Sonido 5</item>
+        <item>Sonido 6</item>
+        <item>Sonido 7</item>
+    </string-array>
+</resources>

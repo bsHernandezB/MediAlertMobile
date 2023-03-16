@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>Seleccione una opción</item>
+        <item>Aumentar horas de alarmas</item>
+        <item>Disminuir horas de alarmas</item>
+        <item>Eliminar alarmas</item>
+    </string-array>
+    <string-array name="oneItemsMessage">
+        <item>Mensaje notificación de la alarma</item>
+    </string-array>
+</resources>
